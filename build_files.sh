@@ -1,2 +1,2 @@
 pip install -r requirements.txt
-python manage.py colletstatic
+python3 manage.py colletstatic
